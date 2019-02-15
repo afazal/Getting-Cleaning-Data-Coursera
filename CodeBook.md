@@ -1,5 +1,5 @@
 
-#Data Set Overview
+## Data Set Overview
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
@@ -7,13 +7,13 @@
 
 - 'activity_labels.txt': Links the class labels with their activity name.
 
-##Train Data Set
+## Train Data Set
 
 - 'train/X_train.txt': Training set with all the values
 
 - 'train/y_train.txt': Training labels which match with the activity labels
 
-##Test Data Set
+## Test Data Set
 
 - 'test/X_test.txt': Test set with all the values
 
@@ -21,7 +21,7 @@
 
 
 
-##The Main features used in the dataset
+## The Main features used in the dataset
 
 
 mean(): Mean value
@@ -42,7 +42,7 @@ kurtosis(): kurtosis of the frequency domain signal
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
 angle(): Angle between to vectors.
 
-##Subject test and train variables
+## Subject test and train variables
 
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
