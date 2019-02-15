@@ -35,15 +35,3 @@ or each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 
-## The Process
-
-The process invloved the following steps:
-
-- Extracting the dataset
-- reading the test and train dataset
-- reading the features and activities columns
-- combining all the test and train data to make a complete dataset
-- labelling the data and assigning proper names( full abbreviations eg : std --> StandardDeviation)
-- Extracting only the measurements on the mean and standard deviation for each measurement.
-- Creating independent tidy set with the average of each variable for each activity and each            subject.
-- Write the data set to the tidy_data.txt file.
